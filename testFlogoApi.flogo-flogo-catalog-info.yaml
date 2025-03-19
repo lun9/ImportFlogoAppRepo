@@ -5,6 +5,7 @@ metadata:
   description: ''
   tags:
     - flogo
+    - test
   links:
     - title: TIBCO Flogo Enterprise
       url: https://docs.tibco.com/products/tibco-flogo-enterprise
